@@ -151,7 +151,7 @@ function Home() {
         title="Amrutam - Holistic Wellness & Ayurvedic Products"
         description="Discover authentic Ayurvedic products, book consultations with trusted practitioners, and embrace holistic wellness with Amrutam."
       />
-      <p className="text-center">Sample Home Page Content</p>
+      <p className="text-center">Sample Home Page Content GOTO Shop tab</p>
       {/* Hero Section - Modern Design */}
       <section className="relative min-h-[90vh] bg-gradient-to-br from-[#FFF7E2] via-[#FFF9EC] to-[#F0F7E8] overflow-hidden">
         {/* Background decorative elements */}
