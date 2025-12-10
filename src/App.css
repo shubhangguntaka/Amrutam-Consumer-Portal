@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* App-specific styles - Keep this file for any custom CSS not covered by Tailwind */
+
+/* You can add custom animations, complex gradients, or app-specific utilities here */
